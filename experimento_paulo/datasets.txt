@@ -1,0 +1,4 @@
+https://github.com/aideep1400/Cattely-Cattle-Face-Images-Dataset/tree/main
+https://universe.roboflow.com/fmonteiro/muzzle-ahill
+https://zenodo.org/records/7988559
+https://www.kaggle.com/datasets/parthibanmarimuthu/beefcattle-muzzle/data
